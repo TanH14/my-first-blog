@@ -25,7 +25,7 @@ SECRET_KEY = '5^!cyx8v--wk69+l)e0y5d_z)c1z75_)h92*x^g1-#(2ximlp@'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1' , 'tanima.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1' , 'tanh14.pythonanywhere.com'] 
 
 
 # Application definition
